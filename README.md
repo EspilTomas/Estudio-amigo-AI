@@ -2,10 +2,15 @@
 Un asistente de estudios impulsado por IA para responder preguntas académicas y mejorar la comprensión de cualquier tema.
 
 🚀 Características
+
 ✅ Respuestas rápidas: Obtén explicaciones instantáneas sobre cualquier materia.
+
 ✅ Explicaciones claras: Respuestas adaptadas a tu nivel con ejemplos fáciles de entender.
+
 ✅ Historial de preguntas: Revisa conversaciones anteriores para reforzar el aprendizaje.
+
 ✅ Consejos de estudio: Recomendaciones para mejorar tu enfoque y técnicas de aprendizaje.
+
 
 🛠️ Tecnologías utilizadas
 ⚡ Vite + React + TypeScript
